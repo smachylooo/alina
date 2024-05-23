@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "Ignite Your Inner Fire at Ivan Kupala Night",
+        "description": "Ivan Kupala Night is an extraordinary ancient holiday, beloved for its original traditions and rites. In Ukraine, we traditionally celebrate it on the night of July 6-7 — all mysteries happen right then…Here are some traditional rituals conducted on Ivan Kupala Night in Ukraine: dancing around the Kupala tree, jumping over the fire, weaving of wreaths, sinking of tress, burning of sacks of straw eating a ceremonial Ukrainian dinner with varenyky, eggs, and liquor",
+        "explanation": "Just as the bonfires blaze bright during Ivan Kupala Night, prepare to ignite your own passions and desires. Embrace the ancient rituals of love and fertility, but with a modern twist. Whether it's forging new connections through dating apps or attending a music festival under the stars, this celebration will spark unexpected encounters and kindle the flames of romance and adventure in your life.",
+        "image": "../images/taro/orange-image.png",  
+        "color": "#E35A0D"        
+    },
+    {
+        "id": "2",
+        "name": "Paint Your Life with Bright Colors",
+        "description": "The name for these Easter eggs—pysanka in the singular and pysanky as plural—is derived from the Ukrainian verb pysaty, which means “to write,” or писати in Ukrainian. So in this case, the word refers to the writing on the eggs. While many Christians might be familiar with dying Easter eggs with solid colors, Ukrainian Easter eggs often feature complex geometric and floral designs.",
+        "explanation": "Just as pysanka are adorned with bright colors, embrace the vibrancy of life. Surround yourself with positivity, joy, and optimism. Seek out opportunities to add color and excitement to your daily routines and activities.",
+        "image": "../images/taro/red-image.png",
+        "color": "#E3260D"
+    },
+    {
+        "id": "3",
+        "name": "Let Your Courage Ring As Loud As Christmas Kolyadky",
+        "description": "Kolyada also specifically refers to children and teens who walk house to house greeting people, singing and sifting grain. They give best wishes to their neighbors and receive sweets and small amounts of money in return.",
+        "explanation": "Courage, like the vibrant melodies of Christmas Kolyadky, has the power to uplift spirits, inspire others, and create a sense of unity and celebration.   ust as these traditional songs echo through homes and streets, filling the air with warmth and joy, your courage should resound in your actions and decisions, spreading positivity and determination to those around you.",
+        "image": "../images/taro/pink-image.png",
+        "color":"#FF4853"       
+    },
+    {
+        "id": "4",
+        "name": "Vesnianky Wishes: Plant Seeds of Success",
+        "description": "Vesnianka is a type of spring dance songs that have been performed in Ukraine for thousands of years.The New Year began with the revival of the surrounding nature and with the awakening of Mother Earth from her winter sleep, with the first plowing and sowing. Spring was greeted joyfully and magnificently, with songs, dances, and games. These songs were called vesnianky.",
+        "explanation": "Like tending to a garden, nurture your ambitions with care and attention. Invest time, effort, and resources into developing your skills, expanding your knowledge, and cultivating positive habits that support your journey towards success.",
+        "image": "../images/taro/green-image.png",
+        "color": "#2DAC41"      
+    },
+    {
+        "id": "5",
+        "name": "Day of Unity: Embrace Harmony Amidst Diversity",
+        "description": "Ivan Kupala Night is an extraordinary ancient holiday, beloved for its original traditions and rites. In Ukraine, we traditionally celebrate it on the night of July 6-7 — all mysteries happen right then…",
+        "explanation": "Like the unity that emerged among Ukraine's regions, anticipate experiences that highlight the strength found in unity. Whether it's coming together with colleagues or friends for a common purpose, joining forces with neighbors to address community needs, or supporting causes that promote inclusivity and equality, expect to witness the transformative power of unity in action.",
+        "image": "../images/taro/yellow-image.png",
+        "color": "#FFB648"       
+    },
+    {
+        "id": "6",
+        "name": "Independence Day Triumph: Daily Victories Await",
+        "description": "Independence Day of Ukraine is a state holiday in modern Ukraine, celebrated on 24 August in commemoration of the Declaration of Independence of 1991.The current form of the holiday was first celebrated on 16 July 1991, as the first anniversary of the Declaration of State Sovereignty of Ukraine passed by the Verkhovna Rada (Ukraine's parliament) in 1990. Since the Declaration of Independence was issued on 24 August 1991, and confirmed by the referendum of 1 December 1991, the date of the holiday was changed.",
+        "explanation": "In every sunrise lies the potential for triumph. As each day unfolds, anticipate personal victories on the horizon. Whether it's overcoming a challenge or seizing an opportunity, embrace the energy of empowerment that surrounds you. With each step forward, dare to break free from limitations and pursue your dreams with unwavering determination. Victory awaits those who seize the moment and embrace the endless possibilities of each new day.",
+        "image": "../images/taro/blue-image.png",
+        "color": "#1A4DFF"     
+    },
+    {
+        "id": "7",
+        "name": "Wash Away Negative Thoughts — this will Give You the Strength to Move on",
+        "description": "Polyvnyi Ponedilok is a lighthearted and festive tradition in Ukraine where people participate in water fights, douse each other with water, and engage in joyful water-related activities. This tradition is believed to symbolize the washing away of negativity, impurities, and the burdens of the past, allowing individuals to start afresh with a clean slate.",
+        "explanation": "Just as Polyvnyy Ponedilok is a day of joyful celebration, prioritize self-care practices that promote your well-being. Treat yourself with kindness and compassion, whether it's through relaxation, hobbies, or activities that bring you joy. Nourish your body, mind, and spirit with love and care.",
+        "image": "../images/taro/azur-image.png",
+        "color":"#25AFB7"        
+    },
+    {
+        "id": "8",
+        "name": "Anticipate a Surprise Very Soon",
+        "description": "Vechornytsi are Ukrainian traditional gatherings with music, songs, jokes and rituals. The goal is simple though: to find out who’ll be your husband. Called Saint Andrew’s Day, it’s celebrated in many European countries. Prior to the party, each girl had to cook varenyky (stuffed dumplings) and decorate them with intricate patterns",
+        "explanation": "Similar to uncovering the hidden surprises within varenyky, the prediction invites you to embrace the thrill of discovering hidden gems in your daily life. Whether it's stumbling upon a hidden talent, receiving an unexpected gift, or encountering a serendipitous opportunity, remain open to the possibility of unexpected joys that can enrich your day.",    
+        "image": "../images/taro/purple-image.png",
+        "color": "#A039D1"
+    }
+]
